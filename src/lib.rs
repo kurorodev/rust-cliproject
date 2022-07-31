@@ -1,6 +1,4 @@
 use std::env;
-// --snip--
-
 use std::error::Error;
 use std::fs;
 
